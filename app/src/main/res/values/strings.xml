@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nepal Eats</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="terms_condition">These terms of use (the "Terms of Use") govern your use of our  and our "Nepal Eats" application for mobile and handheld devices (the "App").the App are jointly referred to as the "Platform". Please read these Terms of Use carefully before you use the services. If you do not agree to these Terms of Use, you may not use the services on the Platform, and we request you to uninstall the App.</string>
+
+    <string name="hints">Search for Restaurant</string>
+    <string name="txt_no_item">No Items in cart</string>
+    <string name="txt_total">Total</string>
+    <string name="txt_checkout">Checkout</string>
+</resources>
